@@ -6,8 +6,13 @@ On April 25 2020 Dan Wainwright [reported for that day's liveblog](https://www.b
 
 ## Get the data
 
+* CSV: [Covid-19 deaths by day and category (previously or newly announced)](https://github.com/BBC-Data-Unit/coronavirus-deaths-dates/blob/master/coronadeathsstacked.csv)
+
 ## Visualisation
 
+![](https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2020/4/25/b2bc5b1a-c99b-42da-9204-a70ac7868b62.png)
+
+* Stacked histogram: Covid-19 deaths by day and category (previously or newly announced)
 
 ## Related repos
 
